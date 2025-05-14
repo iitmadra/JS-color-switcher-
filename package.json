@@ -1,0 +1,7 @@
+{
+    "name": "js-color-switcher",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "live-server"  
+    }
+  }
